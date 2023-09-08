@@ -1,3 +1,3 @@
 # cs386-a1
-#MyCareDriver
+#MyCarDriver
 Github group for worksheet 2 in CS-386
